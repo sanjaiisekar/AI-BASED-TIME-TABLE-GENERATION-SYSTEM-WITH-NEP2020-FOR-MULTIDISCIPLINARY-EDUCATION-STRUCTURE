@@ -49,6 +49,5 @@ Optimizes classroom and faculty utilization.
 Easy to modify when changes occur.
 
 
-https://replit.com/@sanjaiisekar/Ncp-Timetable-Generator?s=app
-
+https://e6789275-e06e-4854-8844-9941a9443b0a-00-1i3oqrziq92ck.sisko.replit.dev/
 
