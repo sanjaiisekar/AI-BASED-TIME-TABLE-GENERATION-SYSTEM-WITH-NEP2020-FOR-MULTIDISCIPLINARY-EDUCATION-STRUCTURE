@@ -49,5 +49,4 @@ Optimizes classroom and faculty utilization.
 Easy to modify when changes occur.
 
 
-https://e6789275-e06e-4854-8844-9941a9443b0a-00-1i3oqrziq92ck.sisko.replit.dev/
-
+https://drive.google.com/file/d/1U7SV2lc88fxDhfWd8uwZASJMgqaPUz1t/view?usp=drivesdk
