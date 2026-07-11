@@ -47,3 +47,8 @@ Saves time.
 Supports NEP 2020 multidisciplinary education.
 Optimizes classroom and faculty utilization.
 Easy to modify when changes occur.
+
+
+https://replit.com/@sanjaiisekar/Ncp-Timetable-Generator?s=app
+
+
