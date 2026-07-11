@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Timetable Generator</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <div class="logo">Timetable AI</div>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="timetable.html">Generator</a>
+    </nav>
+  </header>
+
+  <main class="container">
+    <h2>Generate Timetable</h2>
+
+    <div class="form-box">
+      <label>Department</label>
+      <input type="text" id="department" placeholder="CSE / IT / ECE" />
+
+      <label>Semester</label>
+      <input type="text" id="semester" placeholder="III / V / VII" />
+
+      <label>Subjects (comma separated)</label>
+      <textarea id="subjects" rows="4" placeholder="Maths, DBMS, AI, Python, EVS"></textarea>
+
+      <button class="btn" onclick="generateTimetable()">Generate Timetable</button>
+      <button class="btn secondary" onclick="clearTable()">Clear</button>
+    </div>
+
+    <div id="output" class="output"></div>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
